@@ -1,5 +1,7 @@
 Universidade Metodista de Angola | 4ºAno | EngInfo | Projecto da UC - Inteligência Artificial
 
+click: https://nicosdiogo.github.io/IA_Project/
+
 ## Análise de comportamentos de compra em e-commerce
 
 Desenvolvimento de um **Análise de comportamentos de compra em e-commerce** com os seguintes recursos:
@@ -21,4 +23,4 @@ A análise de comportamentos de compra em e-commerce é crucial para entender co
 A análise desses comportamentos não só ajuda a compreender as preferências dos clientes, mas também permite a criação de estratégias mais eficazes de marketing, personalização de ofertas e aprimoramento da experiência do usuário, impulsionando, assim, as vendas e a fidelização dos clientes no ambiente do comércio eletrônico.
 
 
-# IA_Project
+# IA_Project 
