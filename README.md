@@ -2,7 +2,7 @@ Universidade Metodista de Angola | 4ºAno | EngInfo | Projecto da UC - Inteligê
 
 click: https://nicosdiogo.github.io/IA_Project/
 
-## Análise de comportamentos de compra em e-commerce
+## Análise de comportamentos de compra em e-commerce (em Construção)
 
 Desenvolvimento de um **Análise de comportamentos de compra em e-commerce** com os seguintes recursos:
 
