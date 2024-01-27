@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Universidade Metodista de Angola | 4ºAno | EngInfo | Projecto da UC - Inteligência Artificial
 
 ## Análise de comportamentos de compra em e-commerce
 
