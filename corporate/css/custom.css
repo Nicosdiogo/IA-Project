@@ -1,0 +1,142 @@
+
+.cart-dropdown {
+    position: absolute;
+    width: 300px;
+    background: #FFF;
+    padding: 15px;
+    -webkit-box-shadow: 0px 0px 0px 2px #E4E7ED;
+    box-shadow: 0px 0px 0px 2px #E4E7ED;
+    z-index: 99;
+    right: 0;
+    opacity: 0;
+    visibility: hidden;
+  }
+  
+  
+.cart-list {
+
+    margin-bottom: 15px;
+  }
+  
+.cart-list .product-widget {
+    padding: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+  
+.cart-list .product-widget:last-child {
+    margin-bottom: 0px;
+  }
+  
+.cart-list .product-widget .product-img {
+    left: 0px;
+    top: 0px;
+  }
+  
+.cart-list .product-widget .product-body .product-price {
+    color: #2B2D42;
+  }
+  
+.cart-btns {
+    margin-right: auto;
+    margin-left: auto;
+	padding-top: 10px;
+  }
+  
+.cart-btns>a {
+    display: inline-block;
+    width: calc(50% - 0px);
+    padding: 12px;
+    background-color: #D10024;
+    color: #FFF;
+    text-align: center;
+    font-weight: 700;
+    -webkit-transition: 0.2s all;
+    transition: 0.2s all;
+  }
+  
+.cart-btns>a:first-child {
+    margin-right: -4px;
+    background-color: #1e1f29;
+  }
+  
+.cart-btns>a:hover {
+    opacity: 0.9;
+  }
+  
+.cart-summary {
+    border-top: 1px solid #E4E7ED;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  .product-qtd-input {
+    width: 38px;
+    height: 34px;
+    border-radius: 6px;
+    border: 0.5px solid var(--blue);
+    text-align: center;
+    background: #ffffff00;
+  }
+  
+  .product-qtd-input {
+    display: block;
+    margin: 0 auto;
+  }
+
+  input {
+    font: 400 16px "Roboto", sans-serif;
+  }
+
+
+.add-to {
+  text-align: center;
+  -webkit-transform: translateY(0%);
+  -ms-transform: translateY(0%);
+  transform: translateY(0%);
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+  z-index: 2;
+}
+
+
+.add-to .add-to-cart-btn {
+  position: relative;
+  top: -20px;
+  left: 230px;
+  border: 2px solid transparent;
+  height: 40px;
+  padding: 0 10px;
+  background-color: #ef233c;
+  color: #FFF;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 40px;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+
+.add-to .add-to-cart-btn>i {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 40px;
+  height: 40px;
+  line-height: 38px;
+  color: #D10024;
+  opacity: 0;
+  visibility: hidden;
+}
+ .add-to .add-to-cart-btn:hover {
+  background-color: #FFF;
+  color: #D10024;
+  border-color: #D10024;
+  padding: 0px 30px 0px 50px;
+}
+
+.add-to .add-to-cart-btn:hover>i {
+  opacity: 1;
+  visibility: visible;
+}
+
+/*--------------------------
